@@ -1,0 +1,5 @@
+$colours= array ("red","blue","green", "orange","pink");
+for($x <$colour; $x++){
+echo "the colour is: $x <br>";
+}
+echo $colours[1];
